@@ -1,0 +1,14 @@
+{
+    "model_path": "/kaggle/working/anopheles_fnn_model.keras",
+    "input_shape": [
+        20
+    ],
+    "sampling_rate": 22050,
+    "n_mfcc": 20,
+    "classes": [
+        "anopheles",
+        "background",
+        "other_mosquito"
+    ],
+    "scaler_used": true
+}

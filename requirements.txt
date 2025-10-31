@@ -1,0 +1,27 @@
+# Core ML framework
+tensorflow==2.16.1
+keras==3.3.3
+
+# Audio processing
+librosa==0.10.2.post1
+soundfile==0.12.1
+soxr==0.3.7
+audioread==3.0.1
+
+# Data and preprocessing
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+scikit-learn==1.5.2
+joblib==1.4.2
+
+# Visualization and analysis
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Utilities
+protobuf==4.25.3
+opt-einsum==3.3.0
+h5py==3.11.0
+requests==2.32.3
+
