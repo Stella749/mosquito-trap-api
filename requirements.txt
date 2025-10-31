@@ -1,5 +1,6 @@
 # Core ML framework
-tensorflow==2.16.1
+tensorflow==2.20.0
+
 keras==3.3.3
 
 # Audio processing
@@ -26,7 +27,7 @@ h5py==3.11.0
 requests==2.32.3
 
 Flask==2.3.3
-tensorflow==2.14.0  # or torch if using PyTorch
+tensorflow==2.20.0
 numpy==1.26.4
 librosa==0.10.1     # if you do audio processing
 gunicorn
